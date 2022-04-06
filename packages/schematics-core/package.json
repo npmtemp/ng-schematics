@@ -1,7 +1,7 @@
 {
   "name": "@schuchard/schematics-core",
   "version": "0.4.1",
-  "description": "Schematic Utilities",
+  "description": "This is a fork of [schuchard/ng-schematics](https://github.com/schuchard/ng-schematics) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged",
   "scripts": {
     "build": "rm -rf dist && tsc",
     "test:unit": "ava"
