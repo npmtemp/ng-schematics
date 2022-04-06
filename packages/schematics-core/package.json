@@ -1,5 +1,5 @@
 {
-  "name": "@schuchard/schematics-core",
+  "name": "@npmtemp/schematics-core",
   "version": "0.4.1",
   "description": "This is a fork of [schuchard/ng-schematics](https://github.com/schuchard/ng-schematics) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged",
   "scripts": {
@@ -52,6 +52,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/npmtemp/ng-schematics/tree/master/packages/schematics-core",
-    "directory": "packages/@schuchard/schematics-core"
+    "directory": "packages/@npmtemp/schematics-core"
   }
 }
