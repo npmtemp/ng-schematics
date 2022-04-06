@@ -21,7 +21,7 @@
     "@angular-devkit/core" "8.3.20"
     "rxjs" "6.4.0"
 
-"@npmtemp/schematics-core@file:/Users/shereef.marzouk/Dev/ng-schematics/packages/schematics-core":
+"@npmtmp/schematics-core@file:/Users/shereef.marzouk/Dev/ng-schematics/packages/schematics-core":
   "resolved" "file:packages/schematics-core"
   "version" "0.4.1"
   dependencies:
