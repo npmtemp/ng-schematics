@@ -1,7 +1,7 @@
 {
   "name": "@schuchard/ng-schematics",
   "version": "0.1.0",
-  "description": "Schematic collection",
+  "description": "This is a fork of [schuchard/ng-schematics](https://github.com/schuchard/ng-schematics) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged",
   "private": true,
   "scripts": {
     "bootstrap": "yarn && lerna bootstrap",
