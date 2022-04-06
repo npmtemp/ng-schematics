@@ -1,4 +1,4 @@
-This is a fork of [schuchard/ng-schematics](https://github.com/schuchard/ng-schematics) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged
+This is a fork of [schuchard/ng-schematics](https://github.com/schuchard/ng-schematics) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged. All I want to do is get rid of the dependabot alerts coming form this.
 
 # ng-schematics
 
