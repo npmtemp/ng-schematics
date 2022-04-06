@@ -1,3 +1,5 @@
+This is a fork of [schuchard/ng-schematics](https://github.com/schuchard/ng-schematics) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged
+
 # ng-schematics
 
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
