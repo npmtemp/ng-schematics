@@ -47,7 +47,9 @@
     "access": "public"
   },
   "devDependencies": {
-    "@types/inquirer": "6.5.0"
+    "@types/inquirer": "6.5.0",
+    "@types/jasmine": "^4.0.2",
+    "@types/lodash": "^4.14.181"
   },
   "repository": {
     "type": "git",
